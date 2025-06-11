@@ -17,7 +17,7 @@ export function FloatingDockDemo() {
       icon: (
         <IconBrandLinkedin className="h-full w-full text-neutral-500 dark:text-neutral-300" />
       ),
-      href: "//www.linkedin.com/in/thilina-hansana",
+      href: "//www.linkedin.com/in/bathiya-pathum-436991216",
     },
 
     {
@@ -25,14 +25,14 @@ export function FloatingDockDemo() {
       icon: (
         <IconBrandGithub className="h-full w-full text-neutral-500 dark:text-neutral-300" />
       ),
-      href: "https://github.com/thilinahansana",
+      href: "https://github.com/bathiyapathum",
     },
     {
       title: "Instagram",
       icon: (
         <IconBrandInstagram className="h-full w-full text-neutral-500 dark:text-neutral-300" />
       ),
-      href: "https://www.instagram.com/hansana1100/profilecard/?igsh=cnJ1bG8zNmt0ZnYw",
+      href: "https://www.instagram.com/bathiya_pt/",
     },
     {
       title: "Education",
@@ -46,7 +46,7 @@ export function FloatingDockDemo() {
       icon: (
         <IconBrandFacebook className="h-full w-full text-neutral-500 dark:text-neutral-300" />
       ),
-      href: "https://www.facebook.com/share/ouLQ19LXrSCFz3fG/?mibextid=LQQJ4d",
+      href: "https://www.facebook.com/bathiya.pathum.2025/",
     },
 
     {

@@ -28,14 +28,14 @@ export default function ContactSection() {
             <div className="text-left">
               <h3 className="text-lg md:text-xl font-semibold">Email Us</h3>
               <span className="text-sm md:text-base text-gray-200">
-                thilinahansana1100@gmail.com
+                bathiyapathum@icloud.com
               </span>
             </div>
           </a>
 
           {/* WhatsApp Option */}
           <a
-            href="https://wa.me/+94768727614"
+            href="https://wa.me/+94721674444"
             target="_blank"
             rel="noopener noreferrer"
             className="w-full sm:w-auto flex items-center gap-4 px-6 py-4 bg-green-500 text-white rounded-lg shadow-md hover:bg-green-600 transition-transform duration-300 transform hover:scale-105"
@@ -46,7 +46,7 @@ export default function ContactSection() {
                 Chat on WhatsApp
               </h3>
               <span className="text-sm md:text-base text-gray-200">
-                +94 768727614
+                +94 721674444
               </span>
             </div>
           </a>

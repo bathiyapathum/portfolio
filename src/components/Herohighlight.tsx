@@ -21,7 +21,7 @@ export function HeroHighlightDemo() {
         className="text-2xl px-4 md:text-3xl lg:text-4xl font-bold text-white max-w-3xl leading-relaxed lg:leading-snug text-center mx-auto "
       >
         Hello I&apos;m, <br />
-        <Highlight className="text-black">Thilina Hansana</Highlight>
+        <Highlight className="text-black">Bathiya Pathum</Highlight>
       </motion.h1>
     </HeroHighlight>
   );
