@@ -21,7 +21,7 @@ export default function ContactSection() {
         <div className="flex flex-wrap justify-center items-center gap-6">
           {/* Email Option */}
           <a
-            href="mailto:thilinahansana1100@gmail.com"
+            href="mailto:bathiyapathum@icloud.com"
             className="w-full sm:w-auto flex items-center gap-4 px-6 py-4 bg-blue-600 text-white rounded-lg shadow-md hover:bg-blue-700 transition-transform duration-300 transform hover:scale-105"
           >
             <IconMail size={32} />
