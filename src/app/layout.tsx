@@ -14,8 +14,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Thilina Hansana",
-  description: "Portfolio of Thilina Hansana",
+  title: "Bathiya Pathum",
+  description: "Portfolio of Bathiya Pathum",
   icons: {
     icon: "/dp.svg",
   },
